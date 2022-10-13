@@ -9,6 +9,10 @@
   
 </div>
 <img src="https://komarev.com/ghpvc/?username=robin6717&style=flat-square&color=blue" alt=""/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
+</div>
 <!--
 **robin6717/robin6717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
