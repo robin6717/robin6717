@@ -14,7 +14,7 @@
 - :books: I’m currently learning Angular
 - :heavy_check_mark: I’m looking to collaborate on javascript projects
 - :globe_with_meridians: My website is: www.robinvansteenbergen.com
-- You can find me on: <div id="badges" align="left">
+- :mailbox: You can find me on: <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/robin-van-steenbergen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
