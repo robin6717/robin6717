@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on vanilla javascript projects
 <!--- 🤔 I’m looking for help with ...-->
-- :earth_africa: My website: www.robinvansteenbergen.com
+- :globe_with_meridians: My website: www.robinvansteenbergen.com
 - find me on: <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/robin-van-steenbergen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
