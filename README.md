@@ -12,7 +12,15 @@
 - 👯 I’m looking to collaborate on vanilla javascript projects
 - 🤔 I’m looking for help with ...
 - 📫 My website: www.robinvansteenbergen.com
-- You can reach me on: https://www.linkedin.com/in/robin-van-steenbergen/
+<div>
+  
+ - you can reach me on:
+  - <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/robin-van-steenbergen/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+ 
 - <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/robin-van-steenbergen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
