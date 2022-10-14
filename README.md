@@ -3,9 +3,10 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
   
 </div>
-
+<div align="center">
 ### Hello, I am Robin
 ### I'm a self-taught passionate FrontEnd developer from The Netherlands
+</div>
 ---
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Angular
