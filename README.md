@@ -21,7 +21,7 @@
   </a>
 </div>
  
-- find me on: <div id="badges" align="center">
+- find me on: <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/robin-van-steenbergen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
