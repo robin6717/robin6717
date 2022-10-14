@@ -73,11 +73,11 @@
   
   <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" height="auto"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" height="auto"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100" height="auto" />
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="auto" />
   
 </div>
 
