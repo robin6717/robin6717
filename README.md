@@ -35,9 +35,9 @@
   
 </div>
 ---
-<div align="center">
-  <img style="height: auto; align="center" width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=robin6717&show_icons=true&theme=blue-      green" /> 
-</div>
+
+  <img style="height: auto; align="center" width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=robin6717&show_icons=true&theme=blue-        green" /> 
+
   
 
 
