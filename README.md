@@ -70,13 +70,15 @@
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robin6717&theme=dark&background=000000)](https://git.io/streak-stats)
   
-  
-  <div class='container'>
+  <div align="center">
+    <img style="height: auto; width: 55%;  class="img" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  </div>
+  <!--<div class='container'>
 <img style="height: auto; width: 55%;  class="img" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 &nbsp;
 &nbsp;
 <img style="height: auto; align="center" width: 40%;" class="img" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
-</div>
+</div>-->
   
   
   
