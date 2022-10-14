@@ -75,6 +75,7 @@
   <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 &nbsp;
+  TEST
 &nbsp;
 <img style="height: auto; align="center" width: 60%;" class="img" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></div>
 </div>
@@ -88,15 +89,5 @@
   
   
   
-<!--
-**robin6717/robin6717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:-->
-
-<!--- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on vanilla javascript projects
-- 🤔 I’m looking for help with ...
-- 📫 My website: www.robinvansteenbergen.com
-- ⚡ Fun fact: The last time I coded untill 2021 was in the early 80's on a Toshiba msx homecomputer-->
 
