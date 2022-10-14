@@ -76,7 +76,7 @@
 <img style="height: auto; width: 55%;" class="img" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 60%;" class="img" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></div>
+<img style="height: auto; align="center" width: 60%;" class="img" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></div>
 </div>
   
   
