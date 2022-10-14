@@ -19,10 +19,10 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=robin6717&style=flat-square&color=blue" alt=""/>
 </div>
----
 
----
----
+
+
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -40,14 +40,12 @@
 <!--
 **robin6717/robin6717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning Angular
+- 👯 I’m looking to collaborate on vanilla javascript projects
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: www.robinvansteenbergen.com
-- 😄 Pronouns: ...
+- 📫 My website: www.robinvansteenbergen.com
 - ⚡ Fun fact: The last time I coded untill 2021 was in the early 80's on a Toshiba msx homecomputer
--->
+
