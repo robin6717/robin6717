@@ -11,7 +11,6 @@
 <!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on vanilla javascript projects
-<!--- 🤔 I’m looking for help with ...-->
 - :globe_with_meridians: My website: www.robinvansteenbergen.com
 - find me on: <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/robin-van-steenbergen/">
@@ -82,7 +81,7 @@
   
   
   
-  
+  <!--- 🤔 I’m looking for help with ...-->
   
   
   
