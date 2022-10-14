@@ -4,8 +4,8 @@
   
 </div>
 
-### Hello, I am [Robin]()
-### I'm a self-taught passionate FrontEnd developer from The Netherlands
+# Hello, I am Robin
+## I'm a self-taught passionate FrontEnd developer from The Netherlands
 
 ---
 <!--- 🔭 I’m currently working on ...-->
