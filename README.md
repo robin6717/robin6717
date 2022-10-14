@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with ...
 - 📫 My website: www.robinvansteenbergen.com
 <div>
-  - find me on: <div id="badges" align="left">
+- find me on: <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/robin-van-steenbergen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
