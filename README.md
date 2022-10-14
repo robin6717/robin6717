@@ -9,8 +9,8 @@
 
 ---
 <!--- 🔭 I’m currently working on ...-->
-- 🌱 I’m currently learning Angular
-- 👯 I’m looking to collaborate on vanilla javascript projects
+- :books: I’m currently learning Angular
+- :heavy_check_mark: I’m looking to collaborate on vanilla javascript projects
 - :globe_with_meridians: My website: www.robinvansteenbergen.com
 - find me on: <div id="badges" align="left">
   <a href="https://www.linkedin.com/in/robin-van-steenbergen/">
