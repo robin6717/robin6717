@@ -72,7 +72,7 @@
   
   
   <div class='container'>
-<img style="height: auto; width: 55%;" align="center" class="img" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img style="height: auto; width: 55%;  class="img" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 &nbsp;
   
 &nbsp;
