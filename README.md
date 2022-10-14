@@ -76,7 +76,7 @@
 &nbsp;
   TEST
 &nbsp;
-<img style="height: auto; align="center" width: 60%;" class="img" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+<img style="height: auto; align="center" width: 40%;" class="img" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
 </div>
   
   
