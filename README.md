@@ -12,6 +12,7 @@
 - 👯 I’m looking to collaborate on vanilla javascript projects
 - 🤔 I’m looking for help with ...
 - 📫 My website: www.robinvansteenbergen.com
+- You can reach me on: https://www.linkedin.com/in/robin-van-steenbergen/
 - ⚡ Fun fact: The last time I coded untill 2021 was in the early 80's on a Toshiba msx homecomputer
 
 
