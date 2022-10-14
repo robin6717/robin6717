@@ -8,7 +8,7 @@
 ### I'm a self-taught passionate FrontEnd developer from The Netherlands
 
 ---
-- 🔭 I’m currently working on ...
+<!--- 🔭 I’m currently working on ...-->
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on vanilla javascript projects
 - 🤔 I’m looking for help with ...
