@@ -24,9 +24,9 @@
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" />
 &nbsp;
-&nbsp;
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
-<img style="height: auto; width: 40%;" class="img" align="right" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" /></div>
+&nbsp;
+  <img style="height: auto; width: 40%;" class="img" align="right" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" /></div>
 </div>
   
 <!--<div align="center">
