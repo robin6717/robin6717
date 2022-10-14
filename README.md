@@ -37,8 +37,13 @@
 ---
 <div align="center">
   ### :fire: My Stats :
+  <div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robin6717&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
-
+</div>
+<div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robin6717&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robin6717&theme=dark&background=000000)](https://git.io/streak-stats)
 
 <!--
