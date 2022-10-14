@@ -21,10 +21,7 @@
   <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" width="175" height="175"/>
 </div>
 
-<div id="header" align="center">
-  
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/robin-van-steenbergen/">
@@ -62,6 +59,11 @@
 </div>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robin6717&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+  <div id="header" align="center">
+  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!--
 **robin6717/robin6717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
