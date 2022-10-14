@@ -6,6 +6,13 @@
 
 ### Hello, I am Robin
 ### I'm a self-taught passionate FrontEnd developer from The Netherlands
+---
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning Angular
+- 👯 I’m looking to collaborate on vanilla javascript projects
+- 🤔 I’m looking for help with ...
+- 📫 My website: www.robinvansteenbergen.com
+- ⚡ Fun fact: The last time I coded untill 2021 was in the early 80's on a Toshiba msx homecomputer
 
 
 <div align="center">
