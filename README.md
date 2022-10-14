@@ -76,7 +76,7 @@
 <img style="height: auto; width: 55%;" class="img" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 &nbsp;
 &nbsp;
-<img style="height: auto; width: 40%;" class="img" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></div>
+<img style="height: auto; width: 50%;" class="img" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" /></div>
 </div>
   
   
@@ -87,17 +87,7 @@
   
   
   
-  <div id="header" align="center">
   
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400" height="auto"/>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" height="auto" />
-  
-</div>
-
-https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif
 <!--
 **robin6717/robin6717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
