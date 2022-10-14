@@ -3,10 +3,10 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
   
 </div>
-<div align="center">
+
 ### Hello, I am Robin
 ### I'm a self-taught passionate FrontEnd developer from The Netherlands
-</div>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="300" height="300" />
