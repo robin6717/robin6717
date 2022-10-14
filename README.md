@@ -4,7 +4,7 @@
   
 </div>
 
-### Hello, I am [Robin](#)
+### Hello, I am [Robin]()
 ### I'm a self-taught passionate FrontEnd developer from The Netherlands
 
 ---
