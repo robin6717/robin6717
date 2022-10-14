@@ -21,7 +21,7 @@
 - find me on: 
   
 </div>
-- ⚡ Fun fact: The last time I coded untill 2021 was in the early 80's on a Toshiba msx homecomputer
+<!--- ⚡ Fun fact: The last time I coded untill 2021 was in the early 80's on a Toshiba msx homecomputer-->
 
 <div class='container'>
 <img style="height: auto; width: 55%;" class="img" src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" />
@@ -84,10 +84,10 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on ...
+<!--- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Angular
 - 👯 I’m looking to collaborate on vanilla javascript projects
 - 🤔 I’m looking for help with ...
 - 📫 My website: www.robinvansteenbergen.com
-- ⚡ Fun fact: The last time I coded untill 2021 was in the early 80's on a Toshiba msx homecomputer
+- ⚡ Fun fact: The last time I coded untill 2021 was in the early 80's on a Toshiba msx homecomputer-->
 
