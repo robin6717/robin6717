@@ -17,10 +17,7 @@
   <a href="https://www.linkedin.com/in/robin-van-steenbergen/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<div>
-- find me on: 
-  
-</div>
+
 <!--- ⚡ Fun fact: The last time I coded untill 2021 was in the early 80's on a Toshiba msx homecomputer-->
 
 <div class='container'>
