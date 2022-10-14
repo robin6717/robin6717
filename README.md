@@ -23,7 +23,13 @@
 </div>
 - ⚡ Fun fact: The last time I coded untill 2021 was in the early 80's on a Toshiba msx homecomputer
 
-
+<div class='container'>
+<img style="height: auto; width: 55%;" class="img" src="[https://github-readme-stats.vercel.app/api?username=user&show_icons=true&theme=blue-green](https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif)" />
+&nbsp;
+&nbsp;
+<img style="height: auto; width: 40%;" class="img" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=user&theme=blue-green&langs_count=8&layout=compact](https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif)" /></div>
+</div>
+  
 <div align="center">
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="300" height="300" />
   <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" align="top" width="150" height="150"/>
