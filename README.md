@@ -62,12 +62,11 @@
 
   
 
-<div class='container'>
-<img height:"auto" align="center" auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=robin6717&show_icons=true&theme=blue-green" />
-&nbsp;
-&nbsp;
-<img height: "auto"; align="center" width: 90%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin6717&theme=blue-green&langs_count=8&layout=compact" /></div>
-</div>
+
+<img align="center" width: 55%; src="https://github-readme-stats.vercel.app/api?username=robin6717&show_icons=true&theme=blue-green"/>
+
+<img align="right" width: 90%; class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robin6717&theme=blue-green&langs_count=8&layout=compact" />
+
 
 <!--<div class='container'>
 <img style="height: align="center" auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=robin6717&show_icons=true&theme=blue-green" />
@@ -79,10 +78,10 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=robin6717&theme=dark&background=000000)](https://git.io/streak-stats)
   
   <div align="center">
-    <img style="height: auto; width: 55%;  class="img" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+    <img style="height: auto; width: 55%; src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
   </div>
   <!--<div class='container'>
-<img style="height: auto; width: 55%;  class="img" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+<img width: 55%; src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 &nbsp;
 &nbsp;
 <img style="height: auto; align="center" width: 40%;" class="img" align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
