@@ -28,34 +28,17 @@
   <img style="height: auto; width: 40%;" class="img" align="right" src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" /></div>
 </div>
   
-<!--<div align="center">
-  <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="300" height="300" />
-  <img src="https://media.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif" align="top" width="150" height="150"/>
-</div>-->
 
-
-
-<!--<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/robin-van-steenbergen/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-</div>-->
 ---
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=robin6717&style=flat-square&color=blue" alt=""/>
-</div>
-
-
-
-
-
-
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"                  height="50"/>&nbsp;
   
+</div>
+
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=robin6717&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
