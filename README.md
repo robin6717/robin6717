@@ -10,7 +10,7 @@
 ## About Me:
 ### I'm a self-taught passionate FrontEnd developer from The Netherlands living in Amsterdam, Paris and from next year in Brussels
 
----
+
 <!--- 🔭 I’m currently working on ...-->
 - :books: I’m currently learning Angular
 - :heavy_check_mark: I’m looking to collaborate on javascript projects
