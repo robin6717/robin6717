@@ -1,8 +1,8 @@
 
-<div align="center">
+<!--<div align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="600" height="300"/>
   
-</div>
+</div>-->
 
 # Hello, I am Robin
 
